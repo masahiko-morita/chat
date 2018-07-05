@@ -1,0 +1,10 @@
+{
+    "name": "ec2-user/chat",
+    "authors": [
+        {
+            "name": "masahiko.morita",
+            "email": "masahiko.a.morita@rakuten.com"
+        }
+    ],
+    "require": {}
+}
